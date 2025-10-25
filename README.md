@@ -1,4 +1,4 @@
-# AEM-RB Nspire (alias "OpenRSE")
+# AEM-RB Nspire ("OpenRSE")
 
 Programa de **Análisis Estructural Matricial de Reticulados Bidimensionales (AEM-RB)** para la calculadora **TI-Nspire CX CAS** y **TI-Nspire CX II-T CAS**.
 
@@ -6,10 +6,14 @@ Programa de **Análisis Estructural Matricial de Reticulados Bidimensionales (AE
 
 Este programa utiliza el método matricial de rigidez (Método Directo de Rigidez) para calcular desplazamientos, reacciones y esfuerzos internos (fuerza axial, cortante y momento flector) en cualquier estructura 2D de barras (Pórticos, Vigas Continuas y Cerchas).
 
+<img width="319" height="240" alt="Captura de pantalla 2025-10-24 193424" src="https://github.com/user-attachments/assets/bdc25010-7a27-4ff2-85b6-8cf2f91184dc" />
+<img width="320" height="239" alt="Captura de pantalla 2025-10-24 193233" src="https://github.com/user-attachments/assets/f4da6264-6772-43a9-9d26-b247bb8e4153" />
+<img width="320" height="239" alt="Captura de pantalla 2025-10-24 193136" src="https://github.com/user-attachments/assets/2816986d-016b-431d-a88e-1339534b68bf" />
+<img width="320" height="238" alt="Captura de pantalla 2025-10-24 193046" src="https://github.com/user-attachments/assets/ff7a6f2f-ada0-474f-a95c-592ca18c909a" />
+<img width="320" height="239" alt="Captura de pantalla 2025-10-24 192957" src="https://github.com/user-attachments/assets/9aa3bad0-0d5c-4b71-905f-db7759c5d6dc" />
+<img width="320" height="239" alt="Captura de pantalla 2025-10-24 192902" src="https://github.com/user-attachments/assets/e39e7258-a815-470d-822b-d2603bb64c37" />
 
-*(Aquí puedes insertar una captura de pantalla del programa en funcionamiento)*
 
----
 
 ## 📥 Instalación (Para Usuarios)
 
