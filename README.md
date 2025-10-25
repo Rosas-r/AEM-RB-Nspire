@@ -13,7 +13,21 @@ Este programa utiliza el método matricial de rigidez (Método Directo de Rigide
 <img width="320" height="239" alt="Captura de pantalla 2025-10-24 192957" src="https://github.com/user-attachments/assets/9aa3bad0-0d5c-4b71-905f-db7759c5d6dc" />
 <img width="320" height="239" alt="Captura de pantalla 2025-10-24 192902" src="https://github.com/user-attachments/assets/e39e7258-a815-470d-822b-d2603bb64c37" />
 
+---
 
+## ⚠️ Descargo de Responsabilidad (Disclaimer)
+
+Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita.
+
+* **Propósito Académico:** **AEM-RB** es una herramienta desarrollada con fines **académicos y educativos**. No está destinada, ni debe ser utilizada, para el diseño, análisis o construcción de estructuras reales ni en aplicaciones comerciales críticas.
+
+* **Precisión de los Resultados:** La exactitud de los cálculos depende enteramente de la correcta entrada de datos por parte del usuario.
+
+* **Verificación Obligatoria:** Es responsabilidad exclusiva del usuario validar y verificar todos los resultados obtenidos. **Se recomienda encarecidamente contrastar los cálculos con software de ingeniería estructural especializado y validado (como SAP2000, RISA-3D, ETABS, etc.) antes de tomar cualquier decisión basada en ellos.**
+
+* **Sin Responsabilidad:** El autor no se hace responsable de ningún error, omisión, o de las consecuencias (directas o indirectas) derivadas del uso de este programa.
+
+---
 
 ## 📥 Instalación (Para Usuarios)
 
@@ -55,6 +69,19 @@ Si modificas el archivo `.lua` en tu computadora y quieres crear un nuevo `.tns`
 4.  Se abrirá una página de script. **Copia todo** el contenido de tu archivo `.lua` modificado y **pégalo** en este editor (reemplazando cualquier texto existente).
 5.  **Guarda** el documento (Archivo > Guardar) con el nombre que desees (ej. `Mi_Version_AEM-RB.tns`).
 6.  Transfiere ese nuevo archivo `.tns` a tu calculadora para probarlo.
+
+---
+
+## 👨‍💻 Autor
+
+* **Alexander Rosas Placido**
+* *Ingeniero Civil - Universidad de Huánuco (Perú)*
+
+---
+
+## 🤝 Contribuciones
+
+Las contribuciones, reportes de errores (issues) y sugerencias (pull requests) son bienvenidas. Si encuentras un error o tienes una idea para mejorar el programa, por favor, abre un "Issue" en este repositorio.
 
 ---
 
